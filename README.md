@@ -10,6 +10,7 @@ A Flutter-based application for converting numbers between different number syst
 - Dropdown selectors for choosing source and target bases
 
  Purpose
+ 
 Designed for educational use and collaborative development. Built by a team of five contributors(Stephen Malii,Ambrose Ngeke,Karume Serah,Margeret Gichunga and Mulwa Denis) for academic review and practical demonstration.
 
  Getting Started

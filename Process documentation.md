@@ -19,7 +19,7 @@ To ensure our project was organized and everyone knew their tasks, we assigned t
         Designed the visual layout and user interface of the application.
         Built the UI using Flutter widgets like text fields, dropdowns, and buttons.
         Focused on making the app look good and easy to use.
-    Margeret Gichuka – State & Integration Engineer
+    Margaret Gichunga – State & Integration Engineer
         Connected the user interface (the frontend) to the conversion logic (the backend).
         Managed the app's state, including handling user input and displaying the result.
         Implemented the error-handling logic to manage invalid user inputs.

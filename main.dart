@@ -1,9 +1,5 @@
 import 'package:flutter/material.dart';
-
-// -----------------------------------------------------------------------------
-// 1. CORE CONVERSION LOGIC (The Model / conversion_service.dart)
-// -----------------------------------------------------------------------------
-
+//  CORE CONVERSION LOGIC (The Model / conversion_service.dart)
 // Defines a class to hold the base conversion logic, supporting bases 2-16.
 class ConversionService {
   // Helper to map an integer value (0-15) to its character ('0'-'9', 'A'-'F').
@@ -67,11 +63,7 @@ class ConversionService {
     return _bigIntToBase(decimal, toBase);
   }
 }
-
-// -----------------------------------------------------------------------------
 // 2. MAIN APPLICATION AND UI (The View)
-// -----------------------------------------------------------------------------
-
 void main() {
   runApp(const NumberConverterApp());
 }
@@ -108,10 +100,7 @@ const List<BaseOption> availableBases = [
   BaseOption('Hexadecimal (Base 16)', 16),
 ];
 
-// -----------------------------------------------------------------------------
 // 3. WIDGET AND CONTROLLER LOGIC (The Controller)
-// -----------------------------------------------------------------------------
-
 class NumberConverterScreen extends StatefulWidget {
   const NumberConverterScreen({super.key});
 

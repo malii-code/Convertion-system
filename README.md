@@ -1,21 +1,19 @@
- Conversion-System
+This application built with Flutter is specifically made for the purpose of converting numbers from one number system to another. It can change the base from 2 to 16 which means it can work with Binary, Octal, Decimal, and Hexadecimal. 
 
-A Flutter-based application for converting numbers between different number systems. This tool supports base conversions from 2 to 16, including Binary, Octal, Decimal, and Hexadecimal. It features a clean user interface, input validation, and accurate conversion logic.
+Features
+- Transform numbers among bases 2 to 16
+- Binary, Octal, Decimal, and Hexadecimal supported
+- UI built with Flutter and very clean and user-friendly
+- Provision for input validation and error handling
+- Selection of source and target bases through dropdown menus
 
- Features
-- Convert numbers across bases 2 to 16
-- Supports Binary, Octal, Decimal, and Hexadecimal
-- Clean and intuitive UI built with Flutter
-- Input validation and error handling
-- Dropdown selectors for choosing source and target bases
+Purpose
 
- Purpose
- 
-Designed for educational use and collaborative development. Built by a team of five contributors(Stephen Malii,Ambrose Ngeke,Karume Serah,Margaret Gichunga and Mulwa Denis) for academic review and practical demonstration.
+This application is mainly for educational purposes and team development. The project was done by a group of five: Stephen Malii, Ambrose Ngeke, Karume Serah, Margaret Gichunga, and Mulwa Denis, for academic review and practical demonstration.
 
- Getting Started
-To run the app locally:
+Getting Started
+For local execution of the app:
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/malii-code/conversion-system.git
+Repository needs to be cloned:
+```bash
+git clone https://github.com/malii-code/conversion-system.git
